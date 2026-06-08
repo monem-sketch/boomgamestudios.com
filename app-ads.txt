@@ -4,12 +4,15 @@ google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
 google.com, pub-7489362361067476, DIRECT, f08c47fec0942fa0
 
 unity.com, 1037243, DIRECT
+unity.com, 1037243, DIRECT
 
 ironsrc.com, 151859, DIRECT, 79929e88b2ba73bc
+
 
 facebook.com, 1245581417587353, DIRECT, c3e20eee3f780d68
 facebook.com, 191068138774804, DIRECT, c3e20eee3f780d68
 facebook.com, 941639115462171, DIRECT, c3e20eee3f780d68
+facebook.com, 642430798254915, DIRECT, c3e20eee3f780d68
 
 vungle.com, 64f0785b006b5a0011e5b1a3, DIRECT, c107d686becd2d77
 
@@ -2666,7 +2669,7 @@ ssp.e-volution.ai, AJxF6R118a9M6CaTvK, RESELLER
 loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
-video.unrulymedia.com,  1876793108340587286, RESELLER
+video.unrulymedia.com,  1876793108340587286, RESELLER
 inmobi.com, cac51fe616224c3c8f858f34b3267dd7, RESELLER, 83e75a7ae333ca9d
 inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
 bematterfull.com, 562499, RESELLER
