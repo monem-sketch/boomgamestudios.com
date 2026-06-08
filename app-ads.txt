@@ -1,9 +1,6 @@
-google.com, pub-6397579551962470, DIRECT, f08c47fec0942fa0
-google.com, pub-7112055678212370, DIRECT, f08c47fec0942fa0
-google.com, pub-3803436775068007, DIRECT, f08c47fec0942fa0
 google.com, pub-7489362361067476, DIRECT, f08c47fec0942fa0
+google.com, pub-6397579551962470, DIRECT, f08c47fec0942fa0
 
-unity.com, 1037243, DIRECT
 unity.com, 1037243, DIRECT
 
 ironsrc.com, 151859, DIRECT, 79929e88b2ba73bc
@@ -18,7 +15,6 @@ vungle.com, 64f0785b006b5a0011e5b1a3, DIRECT, c107d686becd2d77
 
 pangleglobal.com, 5014916, DIRECT
 
-applovin.com, a40b47bebbab343caa065a5b17ce21b3, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
 
